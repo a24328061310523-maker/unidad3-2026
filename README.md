@@ -1,3 +1,1 @@
-pagina  para el 3 parcial 
-cetis 131 
-proyecto de programacion 
+<h1> pagina de mi proyecto de 3 semestre </h1>
