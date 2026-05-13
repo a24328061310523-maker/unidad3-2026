@@ -1,0 +1,98 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+/* TITULO */
+h1 {
+    text-align: center;
+    color: yellow;
+    text-shadow: 3px 3px red;
+    margin-top: 20px;
+}
+
+/* CONTENEDOR */
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+
+    margin-top: 40px;
+}
+
+/* IZQUIERDA */
+.left-side {
+    width: 30%;
+    text-align: center;
+}
+
+/* DERECHA */
+.right-side {
+    width: 40%;
+}
+
+/* IMAGEN IZQUIERDA */
+.fire-img {
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+/* IMAGEN POKEMON */
+.pokeImg {
+    width: 300px;
+}
+
+/* INPUT */
+.placeholder {
+    width: 220px;
+    height: 45px;
+
+    border-radius: 10px;
+    border: none;
+
+    font-size: 25px;
+
+    padding-left: 10px;
+
+    background-color: #f3e55c;
+
+    margin-top: 20px;
+}
+
+/* BOTON */
+.boton {
+    width: 120px;
+    height: 50px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background-color: #00aaff;
+
+    color: white;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+    margin-top: 20px;
+}
+
+/* INFORMACION */
+.info {
+    margin-top: 20px;
+
+    font-size: 20px;
+
+    line-height: 35px;
+}
+
+/* GRAFICA */
+.grafica {
+    width: 100%;
+    margin-top: 30px;
+}
