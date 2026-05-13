@@ -1,1 +1,3 @@
-# unidad3-2026
+pagina  para el 3 parcial 
+cetis 131 
+proyecto de programacion 
